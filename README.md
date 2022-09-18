@@ -1,0 +1,2 @@
+# menovinkki.hs.fi
+Subdomain
